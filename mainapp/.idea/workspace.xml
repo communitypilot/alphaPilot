@@ -229,6 +229,8 @@
       <find>click</find>
       <find>.class</find>
       <find>aspec</find>
+      <find>fin</find>
+      <find>finis</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
