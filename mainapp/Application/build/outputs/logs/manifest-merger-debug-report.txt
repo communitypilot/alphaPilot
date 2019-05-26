@@ -1,0 +1,476 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:support-v13:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/e9bf17e024972c99734acfd2737d55b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:design:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b30ba602075ced133ae8e770d521f5ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/7e1738fa3b93efbdc7bf4e6efd9d1dcd/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/592ac394a9fc39f50e0f724978a4d42c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/3f3d6c534c7fea71252f21113b680444/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/12c850e1623c4e23ef7c29e05faf3225/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/dda9c2a1cf4967f6d7321f5f84513e22/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/bfbefd8d2ffd700c1ca54751fcf131da/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/1f397b970318dc9c345e1418962ef9d5/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/84e097cab941dca42755078a79c79b0f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/18b28ae3db1b7d3cc4f9eabb0efb7e57/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/a59cfacd20ced7299bcb2b6f48f26f1c/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/f9f0192aa9c21a9965c2712371ca71f0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/972d97d0c468e1e336a21a5673da305f/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/ff52e0bd4b9847d17d0287bf2859f9d9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/d77b9283540516491f9138536c393e28/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/ee120352e23cee1b0fe70e24874a063a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/26a28a8c869311a153b1ec89946416ac/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/886a8f6ef17dbfe7b66621c65640fcbe/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/6147539f066ec40aeb0199508a4e23f3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/9d6d3031ff1f75ec477ca7d32e096d27/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/8893600d0bbd35ec3e7587fb6c045bc6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/c317d6cb9e629c5f3bdaf9a84a35c153/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/bd588debbf2ff036600afab2d1acaad3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/05cb7b12b5668f3c57f5f92c1c709267/AndroidManifest.xml:2:1-11:12
+MERGED from [net.steamcrafted:materialiconlib:1.1.5] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/2aeb1e3e639d7b16ebea06e2ff252ac8/AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/73654de4e2ee9e79ad47359826c830c7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/732a39ce00d88849fdf24dbbb2d30d40/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/73740a7415f6e2f058ad63870c8f7338/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/eefa4119d0e9d8b9d0312f0fb2a69762/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/192fde681a5fae9878530b0f2a1fe247/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/89e0d99f27ec67b6b555de2c799dbf9f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/14254dd602265d9fd91583118a107ee8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/cb1b9887841ae9c7275d83ad5ddc5399/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/3f061bacd24bce1263e81585a07c4172/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/6790b235505cc0a14cd10368d7e6616a/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:10:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:10:22-64
+application
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:12:5-29:19
+MERGED from [com.google.android.gms:play-services-identity:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/7e1738fa3b93efbdc7bf4e6efd9d1dcd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/7e1738fa3b93efbdc7bf4e6efd9d1dcd/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/592ac394a9fc39f50e0f724978a4d42c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/592ac394a9fc39f50e0f724978a4d42c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/3f3d6c534c7fea71252f21113b680444/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/3f3d6c534c7fea71252f21113b680444/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/dda9c2a1cf4967f6d7321f5f84513e22/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/dda9c2a1cf4967f6d7321f5f84513e22/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/84e097cab941dca42755078a79c79b0f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/84e097cab941dca42755078a79c79b0f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/18b28ae3db1b7d3cc4f9eabb0efb7e57/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/18b28ae3db1b7d3cc4f9eabb0efb7e57/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/a59cfacd20ced7299bcb2b6f48f26f1c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/a59cfacd20ced7299bcb2b6f48f26f1c/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/f9f0192aa9c21a9965c2712371ca71f0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/f9f0192aa9c21a9965c2712371ca71f0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/972d97d0c468e1e336a21a5673da305f/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/972d97d0c468e1e336a21a5673da305f/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/ff52e0bd4b9847d17d0287bf2859f9d9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/ff52e0bd4b9847d17d0287bf2859f9d9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/d77b9283540516491f9138536c393e28/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/d77b9283540516491f9138536c393e28/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/ee120352e23cee1b0fe70e24874a063a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/ee120352e23cee1b0fe70e24874a063a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/26a28a8c869311a153b1ec89946416ac/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/26a28a8c869311a153b1ec89946416ac/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/886a8f6ef17dbfe7b66621c65640fcbe/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/886a8f6ef17dbfe7b66621c65640fcbe/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/6147539f066ec40aeb0199508a4e23f3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/6147539f066ec40aeb0199508a4e23f3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/9d6d3031ff1f75ec477ca7d32e096d27/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/9d6d3031ff1f75ec477ca7d32e096d27/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/05cb7b12b5668f3c57f5f92c1c709267/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/05cb7b12b5668f3c57f5f92c1c709267/AndroidManifest.xml:9:5-20
+MERGED from [net.steamcrafted:materialiconlib:1.1.5] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/2aeb1e3e639d7b16ebea06e2ff252ac8/AndroidManifest.xml:11:5-12:19
+MERGED from [net.steamcrafted:materialiconlib:1.1.5] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/2aeb1e3e639d7b16ebea06e2ff252ac8/AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:14:9-45
+	android:allowBackup
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:16:9-45
+activity#com.leonhillmann.pilotalpha.settings
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:17:9-82
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:17:19-70
+activity#com.leonhillmann.pilotalpha.home
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:18:9-69
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:18:19-66
+activity#com.leonhillmann.pilotalpha.loginUI
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:20:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:25:27-74
+activity#com.example.android.alphapilotLeonhillmann.CameraActivity
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:28:9-94
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:28:19-91
+uses-sdk
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/e9bf17e024972c99734acfd2737d55b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/e9bf17e024972c99734acfd2737d55b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b30ba602075ced133ae8e770d521f5ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b30ba602075ced133ae8e770d521f5ac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/7e1738fa3b93efbdc7bf4e6efd9d1dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/7e1738fa3b93efbdc7bf4e6efd9d1dcd/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/592ac394a9fc39f50e0f724978a4d42c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/592ac394a9fc39f50e0f724978a4d42c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/3f3d6c534c7fea71252f21113b680444/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-audience:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/3f3d6c534c7fea71252f21113b680444/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/12c850e1623c4e23ef7c29e05faf3225/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/12c850e1623c4e23ef7c29e05faf3225/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/dda9c2a1cf4967f6d7321f5f84513e22/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/dda9c2a1cf4967f6d7321f5f84513e22/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/bfbefd8d2ffd700c1ca54751fcf131da/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/bfbefd8d2ffd700c1ca54751fcf131da/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/1f397b970318dc9c345e1418962ef9d5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/1f397b970318dc9c345e1418962ef9d5/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/84e097cab941dca42755078a79c79b0f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.9] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/84e097cab941dca42755078a79c79b0f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/18b28ae3db1b7d3cc4f9eabb0efb7e57/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/18b28ae3db1b7d3cc4f9eabb0efb7e57/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/a59cfacd20ced7299bcb2b6f48f26f1c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/a59cfacd20ced7299bcb2b6f48f26f1c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/f9f0192aa9c21a9965c2712371ca71f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/f9f0192aa9c21a9965c2712371ca71f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/972d97d0c468e1e336a21a5673da305f/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/972d97d0c468e1e336a21a5673da305f/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/ff52e0bd4b9847d17d0287bf2859f9d9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/ff52e0bd4b9847d17d0287bf2859f9d9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/d77b9283540516491f9138536c393e28/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/d77b9283540516491f9138536c393e28/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/ee120352e23cee1b0fe70e24874a063a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/ee120352e23cee1b0fe70e24874a063a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/26a28a8c869311a153b1ec89946416ac/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/26a28a8c869311a153b1ec89946416ac/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/886a8f6ef17dbfe7b66621c65640fcbe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/886a8f6ef17dbfe7b66621c65640fcbe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/6147539f066ec40aeb0199508a4e23f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/6147539f066ec40aeb0199508a4e23f3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/9d6d3031ff1f75ec477ca7d32e096d27/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.2.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/9d6d3031ff1f75ec477ca7d32e096d27/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/8893600d0bbd35ec3e7587fb6c045bc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/8893600d0bbd35ec3e7587fb6c045bc6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/c317d6cb9e629c5f3bdaf9a84a35c153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/c317d6cb9e629c5f3bdaf9a84a35c153/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/bd588debbf2ff036600afab2d1acaad3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/bd588debbf2ff036600afab2d1acaad3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/05cb7b12b5668f3c57f5f92c1c709267/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/05cb7b12b5668f3c57f5f92c1c709267/AndroidManifest.xml:5:5-7:41
+MERGED from [net.steamcrafted:materialiconlib:1.1.5] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/2aeb1e3e639d7b16ebea06e2ff252ac8/AndroidManifest.xml:7:5-9:41
+MERGED from [net.steamcrafted:materialiconlib:1.1.5] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/2aeb1e3e639d7b16ebea06e2ff252ac8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/73654de4e2ee9e79ad47359826c830c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/73654de4e2ee9e79ad47359826c830c7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/732a39ce00d88849fdf24dbbb2d30d40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/732a39ce00d88849fdf24dbbb2d30d40/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/73740a7415f6e2f058ad63870c8f7338/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/73740a7415f6e2f058ad63870c8f7338/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/eefa4119d0e9d8b9d0312f0fb2a69762/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/eefa4119d0e9d8b9d0312f0fb2a69762/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/192fde681a5fae9878530b0f2a1fe247/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/192fde681a5fae9878530b0f2a1fe247/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/89e0d99f27ec67b6b555de2c799dbf9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/89e0d99f27ec67b6b555de2c799dbf9f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/14254dd602265d9fd91583118a107ee8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/14254dd602265d9fd91583118a107ee8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/cb1b9887841ae9c7275d83ad5ddc5399/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/cb1b9887841ae9c7275d83ad5ddc5399/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/3f061bacd24bce1263e81585a07c4172/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/3f061bacd24bce1263e81585a07c4172/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/6790b235505cc0a14cd10368d7e6616a/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/6790b235505cc0a14cd10368d7e6616a/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+		INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:37:17-109
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/be6fe6850d622d99ba5f6c26599d47e1/AndroidManifest.xml:34:13-89
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b1ed79109179c2ce1e8d8092f54d0889/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.1.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/5f2009731c7f252e7aa137fb1c69badc/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/f9f0192aa9c21a9965c2712371ca71f0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/f9f0192aa9c21a9965c2712371ca71f0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/f9f0192aa9c21a9965c2712371ca71f0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/f9f0192aa9c21a9965c2712371ca71f0/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/972d97d0c468e1e336a21a5673da305f/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/972d97d0c468e1e336a21a5673da305f/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/972d97d0c468e1e336a21a5673da305f/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/972d97d0c468e1e336a21a5673da305f/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/972d97d0c468e1e336a21a5673da305f/AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/00e16d749480da1b83078a3f1a621cea/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/fecd58d24f4e9dddc90b68d0d48c65a1/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:16.5.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/35f1837d344e585e5f6615f391d7f3f4/AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/9d6d3031ff1f75ec477ca7d32e096d27/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/9d6d3031ff1f75ec477ca7d32e096d27/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.2.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/9d6d3031ff1f75ec477ca7d32e096d27/AndroidManifest.xml:24:13-58

@@ -1,0 +1,2 @@
+include 'Application'
+rootProject.name = 'AlphaPilot by Leon Hillmann'
