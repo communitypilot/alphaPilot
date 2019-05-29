@@ -102,6 +102,7 @@ public class loginUI extends Activity {
                             // User signed in
                             Intent intent = new Intent(loginUI.this, home.class);
                             startActivity(intent);
+                            finish();
 
 
                         } else {

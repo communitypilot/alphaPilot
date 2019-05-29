@@ -1,4 +1,4 @@
-#Sun May 26 19:34:35 CEST 2019
+#Tue May 28 17:15:43 CEST 2019
 base.0=/Users/leonnowsden/alphaPilot/mainapp/Application/build/intermediates/transforms/dexMerger/debug/6
 path.0=classes.dex
 renamed.0=classes.dex

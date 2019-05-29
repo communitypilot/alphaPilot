@@ -13,9 +13,14 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/MaterialTheme">
-        <activity android:name="com.leonhillmann.pilotalpha.settings"></activity>
-        <activity android:name="com.leonhillmann.pilotalpha.home" />
+        android:theme="@style/AppTheme">
+        <activity android:name="com.leonhillmann.pilotalpha.support"></activity>
+        <activity
+            android:name="com.leonhillmann.pilotalpha.settings"
+            android:label="Settings" />
+        <activity
+            android:name="com.leonhillmann.pilotalpha.home"
+            android:label="Dashboard" />
         <activity
             android:name="com.leonhillmann.pilotalpha.loginUI"
             android:label="@string/app_name">

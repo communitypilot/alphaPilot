@@ -1,11 +1,12 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-36:12
 MERGED from [com.android.support:support-v13:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/e9bf17e024972c99734acfd2737d55b7/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:design:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b30ba602075ced133ae8e770d521f5ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:preference-v7:23.4.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b862dd552feed81e8975f18b687a1a98/AndroidManifest.xml:2:1-11:12
 MERGED from [com.google.android.gms:play-services-identity:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/7e1738fa3b93efbdc7bf4e6efd9d1dcd/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/592ac394a9fc39f50e0f724978a4d42c/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:firebase-auth:17.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/abb3b142fe4b7b0fe4e6a0ff70f6da08/AndroidManifest.xml:17:1-42:12
@@ -47,9 +48,9 @@ MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/leonnows
 MERGED from [com.android.support:transition:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/cb1b9887841ae9c7275d83ad5ddc5399/AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/3f061bacd24bce1263e81585a07c4172/AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/6790b235505cc0a14cd10368d7e6616a/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
-INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:2:1-36:12
 	package
 		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:3:5-47
 		INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
@@ -91,7 +92,9 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.5.0] /U
 	android:name
 		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:10:22-64
 application
-ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:12:5-29:19
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:12:5-34:19
+MERGED from [com.android.support:preference-v7:23.4.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b862dd552feed81e8975f18b687a1a98/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:preference-v7:23.4.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b862dd552feed81e8975f18b687a1a98/AndroidManifest.xml:9:5-20
 MERGED from [com.google.android.gms:play-services-identity:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/7e1738fa3b93efbdc7bf4e6efd9d1dcd/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-identity:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/7e1738fa3b93efbdc7bf4e6efd9d1dcd/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/592ac394a9fc39f50e0f724978a4d42c/AndroidManifest.xml:22:5-20
@@ -149,35 +152,43 @@ MERGED from [net.steamcrafted:materialiconlib:1.1.5] /Users/leonnowsden/.gradle/
 	android:allowBackup
 		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:16:9-45
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:16:9-40
+activity#com.leonhillmann.pilotalpha.support
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:17:9-81
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:17:19-69
 activity#com.leonhillmann.pilotalpha.settings
-ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:17:9-82
-	android:name
-		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:17:19-70
-activity#com.leonhillmann.pilotalpha.home
-ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:18:9-69
-	android:name
-		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:18:19-66
-activity#com.leonhillmann.pilotalpha.loginUI
-ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:19:9-27:20
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:18:9-20:40
 	android:label
-		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:21:13-45
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:20:13-37
 	android:name
-		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:20:13-63
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:19:13-64
+activity#com.leonhillmann.pilotalpha.home
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:21:9-23:41
+	android:label
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:23:13-38
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:22:13-60
+activity#com.leonhillmann.pilotalpha.loginUI
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:24:9-32:20
+	android:label
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:25:13-63
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:22:13-26:29
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
-ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:23:17-69
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:23:25-66
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:25:17-77
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:25:27-74
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:30:27-74
 activity#com.example.android.alphapilotLeonhillmann.CameraActivity
-ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:28:9-94
+ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:33:9-94
 	android:name
-		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:28:19-91
+		ADDED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml:33:19-91
 uses-sdk
 INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/leonnowsden/alphaPilot/mainapp/Application/src/main/AndroidManifest.xml
@@ -186,6 +197,8 @@ MERGED from [com.android.support:support-v13:27.0.2] /Users/leonnowsden/.gradle/
 MERGED from [com.android.support:support-v13:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/e9bf17e024972c99734acfd2737d55b7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b30ba602075ced133ae8e770d521f5ac/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:design:27.0.2] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b30ba602075ced133ae8e770d521f5ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:preference-v7:23.4.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b862dd552feed81e8975f18b687a1a98/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:preference-v7:23.4.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/b862dd552feed81e8975f18b687a1a98/AndroidManifest.xml:7:5-43
 MERGED from [com.google.android.gms:play-services-identity:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/7e1738fa3b93efbdc7bf4e6efd9d1dcd/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-identity:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/7e1738fa3b93efbdc7bf4e6efd9d1dcd/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.gms:play-services-plus:16.0.0] /Users/leonnowsden/.gradle/caches/transforms-2/files-2.1/592ac394a9fc39f50e0f724978a4d42c/AndroidManifest.xml:20:5-44

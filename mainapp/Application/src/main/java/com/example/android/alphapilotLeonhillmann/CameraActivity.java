@@ -40,20 +40,13 @@ public class CameraActivity extends Activity {
 
         }
 
-        Button logout;
-        logout = (Button) findViewById(R.id.logout);
-        logout.setOnClickListener(new View.OnClickListener() {
+        Button home;
+        home = (Button) findViewById(R.id.home);
+        home.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                FirebaseAuth.getInstance().signOut();
-                FirebaseUser user = FirebaseAuth.getInstance().getCurrentUser();
-                if (user == null) {
-                    // User not signed in
-                    Intent intent = new Intent(CameraActivity.this, com.leonhillmann.pilotalpha.home.class);
-                    startActivity(intent);
-
-
-                }
+                Intent intent = new Intent(CameraActivity.this, com.leonhillmann.pilotalpha.home.class);
+                startActivity(intent);
             }
         });
 

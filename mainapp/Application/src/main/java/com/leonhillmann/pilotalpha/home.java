@@ -3,6 +3,7 @@ package com.leonhillmann.pilotalpha;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageButton;
@@ -10,7 +11,7 @@ import android.widget.ImageButton;
 import com.example.android.alphapilotLeonhillmann.CameraActivity;
 import com.example.android.camera2video.R;
 
-public class home extends Activity {
+public class home extends AppCompatActivity {
 
 
 
@@ -25,7 +26,7 @@ public class home extends Activity {
             public void onClick(View view) {
                 Intent intent = new Intent(home.this, CameraActivity.class);
                 startActivity(intent);
-                finish();
+
             }
         });
         ImageButton settingsbtn;
@@ -35,6 +36,7 @@ public class home extends Activity {
             public void onClick(View view) {
                 Intent intent = new Intent(home.this, settings.class);
                 startActivity(intent);
+
 
             }
         });
