@@ -19,6 +19,15 @@ public class home extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dashboard);
+        Button support;
+        support = (Button) findViewById(R.id.support);
+        support.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent intent = new Intent(home.this, support.class);
+                startActivity(intent);
+            }
+        });
         Button recordDrive;
         recordDrive = (Button) findViewById(R.id.recorddrive);
         recordDrive.setOnClickListener(new View.OnClickListener() {
