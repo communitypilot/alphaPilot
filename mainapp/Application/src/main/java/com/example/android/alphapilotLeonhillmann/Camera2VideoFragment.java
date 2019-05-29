@@ -302,6 +302,7 @@ public class Camera2VideoFragment extends Fragment
         switch (view.getId()) {
             case R.id.video: {
                 if (mIsRecordingVideo) {
+
                     stopRecordingVideo();
                 } else {
                     startRecordingVideo();
@@ -597,7 +598,7 @@ public class Camera2VideoFragment extends Fragment
         }
         mMediaRecorder.prepare();
     }
-
+    //TODO: Path for saving
     private String getVideoFilePath(Context context) {
         final File dir = context.getFilesDir();
         return (dir == null ? "" : (dir.getAbsolutePath() + "/"))
